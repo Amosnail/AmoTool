@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmoToolCore/AmoToolCore.iml" filepath="$PROJECT_DIR$/AmoToolCore/AmoToolCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolCrypto/AmoToolCrypto.iml" filepath="$PROJECT_DIR$/AmoToolCrypto/AmoToolCrypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolDb/AmoToolDb.iml" filepath="$PROJECT_DIR$/AmoToolDb/AmoToolDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolHttp/AmoToolHttp.iml" filepath="$PROJECT_DIR$/AmoToolHttp/AmoToolHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolJson/AmoToolJson.iml" filepath="$PROJECT_DIR$/AmoToolJson/AmoToolJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolLog/AmoToolLog.iml" filepath="$PROJECT_DIR$/AmoToolLog/AmoToolLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolSample.iml" filepath="$PROJECT_DIR$/AmoToolSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolSocket/AmoToolSocket.iml" filepath="$PROJECT_DIR$/AmoToolSocket/AmoToolSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmoToolXml/AmoToolXml.iml" filepath="$PROJECT_DIR$/AmoToolXml/AmoToolXml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
